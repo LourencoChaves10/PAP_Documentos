@@ -1,0 +1,8 @@
+.css
+linha 12 - alterei a fundo do body
+linha 68 troquei a cor da letra
+linha 78 troquei a cor da letra selecionada
+linha 104- alterei a cor do fundo do hero Section
+linha 264- alterei a cor do fundo do botão
+linha 265- alterei a cor da escrita do botao
+linha 279- alterei a cor quando o rato e passado em cima do botao
